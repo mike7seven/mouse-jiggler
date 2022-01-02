@@ -1,8 +1,8 @@
 # mouse-jiggler
-Mouse Jiggler for Raspberry Pi Pico Using CircuitPython
-Credit to https://github.com/tbuwadi or @talaexe on TikTok 
+Mouse Jiggler for Raspberry Pi Pico Using CircuitPython \
+Credit to https://github.com/tbuwadi or @talaexe on TikTok \
 Please watch her instructional video \
-https://www.tiktok.com/@talaexe/video/7045424803938979078?sender_device=pc&sender_web_id=7048238389116880390&is_from_webapp=v1&is_copy_url=0
+https://www.tiktok.com/@talaexe/video/7045424803938979078?sender_device=pc&sender_web_id=7048238389116880390&is_from_webapp=v1&is_copy_url=0 
 
 # Requirements
 1. A Windows, Mac or Linux computer
