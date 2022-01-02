@@ -38,8 +38,8 @@ All credit goes to @talaexe on TikTok https://www.tiktok.com/@talaexe/video/7045
 
 
 # Other learning resources and references
-https://circuitpython.org/
-https://circuitpython.org/downloads
-https://circuitpython.readthedocs.io/projects/hid/en/latest/api.html
-https://learn.adafruit.com/circuitpython-essentials
-https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython-programming-basics
+https://circuitpython.org/ \
+https://circuitpython.org/downloads \
+https://circuitpython.readthedocs.io/projects/hid/en/latest/api.html \
+https://learn.adafruit.com/circuitpython-essentials \
+https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython-programming-basics \
