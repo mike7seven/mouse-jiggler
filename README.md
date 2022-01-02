@@ -6,7 +6,7 @@ https://www.tiktok.com/@talaexe/video/7045424803938979078?sender_device=pc&sende
 
 # Requirements
 1. A Windows, Mac or Linux computer
-2. Raspberry Pi Pico (Can be purchased at ww.amazon.com or if you have a local www.microcenter.com)
+2. Raspberry Pi Pico (Can be purchased at www.amazon.com or go to your local Micro Center www.microcenter.com unfortunately they aren't sold online from Micro Center)
 3. USB-A to Micro USB Cable 
 4. Circuit Python - https://circuitpython.org/
 5. Thonny IDE - https://thonny.org/
@@ -25,14 +25,14 @@ https://www.tiktok.com/@talaexe/video/7045424803938979078?sender_device=pc&sende
 4. This will install the Circuit Python software on the Pico Pi and then reboot the Pico Pi. 
 5. Once rebooted the Pico Pi drive should be renamed to CIRCUITPY. 
 
-# Get the mouse jiggler working
+# Get the Python Program working
 1. Copy the code from the main.py file here in Github. Then paste it into the Thonny IDE. 
 2. Go to run, then select interpreter, make sure you have Circuit Python selected and ensure the Pico is selected under the port. 
 3. Select tools, then manage packages, search for Adafruit HID. Select the adafruit_hid package. Note: the package may be named similar
 4. Click the green go button and watch your mouse move. 
 5. Save the program file to your local computer. Click file, then save as main.py in your location of choice. 
 
-# Prepare the Pico Pi to run this program as soon as it plugged into a computer
+# Prepare the Pico Pi to run the Python program as soon as it plugged into a computer
 1. Click file, choose the Pico Pi, then save as code.py
 2. Properly eject or unmount the Pico Pi drive. 
 3. Plug into computer where you want the Pico Pi to act as a mouse.
